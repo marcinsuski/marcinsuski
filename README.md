@@ -8,7 +8,8 @@ Before switching carreer, I've had many years of experience in developing a big 
 
 * 🌍  I'm based in Kraków, Poland
 * ✉️  You can contact me at [suski.marcin@gmail.com](mailto:suski.marcin@gmail.com)
-* 🧠  I'm learning Next.js and other React environment tools.
+* 💻  You can find more about me at https://marcinsuski.pl 
+* 🧠  I'm learning Next.js and other React environment tools.
 * 🤝  I'm open to collaborating on virtually any project where I can put my skills to a good use :)
 * ⚡  In free time I love running (especially trail and mountain running, nevermind the distance!) and programming.
 
