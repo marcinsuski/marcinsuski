@@ -38,6 +38,6 @@ Before switching carreer, I've had many years of experience in developing a big 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/marcinsuski"><img src="https://github-readme-stats.vercel.app/api?username=marcinsuski&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="marcinsuski's GitHub stats" /></a>
+<a href="http://www.github.com/marcinsuski"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcinsuski&show_icons=true&icon_color=06D6A0&count_private=true&title_color=8DE6FF&text_color=ffffff&bg_color=040C18&hide_border=true" alt="marcinsuski's GitHub stats" /></a>
 
-<a href="https://github.com/marcinsuski" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcinsuski&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/marcinsuski" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcinsuski&langs_count=10&title_color=8DE6FF&text_color=ffffff&icon_color=06D6A0&bg_color=040C18&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
